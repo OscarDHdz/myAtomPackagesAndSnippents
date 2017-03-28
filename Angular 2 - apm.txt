@@ -1,0 +1,2 @@
+-- Angular 2 APM Modules 
+apm install angular-2-typeScript-snippets atom-bootstrap3 atom-typescript file-icons platformio-ide-terminal v-bootstrap4
