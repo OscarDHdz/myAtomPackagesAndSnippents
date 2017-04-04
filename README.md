@@ -56,12 +56,12 @@ apm install git-time-machine merge-conflicts
  ```
 ###### platformio-ide-terminal
 Let Atom open in-terminals
-![TerminalCap](./img/terminal.png)
+![TerminalCap](./img/terminal.png?raw=true)
 
 ###### autocomplete-js-import
 Let Atom suggest autocomplete while importing modules.   
 It needs this configuration:
-![Imports](./img/imports.png)
+![Imports](./img/imports.png?raw=true)
 
 ## **Atom Snippets**
 
